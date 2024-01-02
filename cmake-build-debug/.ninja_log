@@ -1,0 +1,6 @@
+# ninja log v5
+2	1641	1643833633654907217	CMakeFiles/Robert_Schofield_Sort1.dir/main.cpp.o	69f459194cd4c17b
+3	1623	1643833733254297871	CMakeFiles/Robert_Schofield_Sort1.dir/Robert_SchofieldReverseInput.cpp.o	fcb3e59161c3c8bc
+1724	1820	1643833733456791524	Robert_Schofield_Sort1	5f42961604a5c162
+3	1724	1643833733356000771	CMakeFiles/Robert_Schofield_Sort1.dir/Robert_SchofieldRandomInput.cpp.o	7f90e02788fcc441
+3	1533	1643833733153974238	CMakeFiles/Robert_Schofield_Sort1.dir/Robert_SchofieldSortedInput.cpp.o	441f704668322570

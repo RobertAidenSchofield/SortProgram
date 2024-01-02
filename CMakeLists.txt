@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(Robert_Schofield_Sort1)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Robert_Schofield_Sort1 main.cpp Robert_SchofieldRandomInput.cpp Robert_SchofieldRandomInput.h Robert_SchofieldSortedInput.cpp Robert_SchofieldSortedInput.h Robert_SchofieldReverseInput.cpp Robert_SchofieldReverseInput.h)
